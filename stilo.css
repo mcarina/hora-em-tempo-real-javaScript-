@@ -1,0 +1,38 @@
+*{
+
+}
+
+body{
+ background: hsl(250, 24%, 15%) ;
+ font: normal 15pt Arial;
+}
+
+header{
+  color: rgba(255, 255, 255, 0.879);
+  text-align: center;
+}
+
+
+section{
+  background:#ffffff ;
+  border-radius:25px ;
+  padding: 15px;
+  width: 450px ;
+  margin: auto;
+  box-shadow: 3px 3px 10px black;
+}
+
+div{
+  text-align: center;
+}
+
+img{
+  border-radius: 30px;
+  padding: 20px;
+}
+
+footer{
+  color:  #ffffff;
+  text-align: center;
+  font-style: italic;
+}
