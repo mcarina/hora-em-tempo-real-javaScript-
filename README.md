@@ -5,7 +5,7 @@ O objetivo é mostrar que é possível construir um web site que trabalha em tem
 <img src="https://user-images.githubusercontent.com/102268481/202048138-26608754-dcf0-4c45-8650-8f9fd2e8f93d.png" width="780px"/>
 
 <br>
-<h3>#Conforme muda o período do dia, muda as imagens de acordo.</h3>
+<h3>#Conforme muda o período do dia, muda as imagens de acordo com:</h3>
 <p> - Período da manhã; </p>
 <img src="https://user-images.githubusercontent.com/102268481/202055314-a96e2df9-fee0-41a2-a710-687b4106a1ab.png" width="400px"/>
 
